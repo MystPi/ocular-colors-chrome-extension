@@ -10,4 +10,4 @@ Download and unzip this repo, then open `chrome://extensions` in your browser an
 ## Why?
 I made this extension as an opportunity to learn **how** to create Chrome extensions, not because there is any shortage of extensions that have features similiar to this.
 
-Also, I was  testing the `git` and `gh` cli on this repo. :rotfl:
+Also, I was  testing the `git` and `gh` cli on this repo. :rofl:
