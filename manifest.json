@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Ocular Colors",
+  "version": "0.1",
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://scratch.mit.edu/users/*", "http://scratch.mit.edu/users/*"],
+      "js": ["color.js"]
+    }
+  ]
+}
